@@ -35,3 +35,5 @@ Hi, I'm Fidi. I'm a passionate programmer and a tech enthusiast. I love building
 <img src="https://raw.githubusercontent.com/FlaminggoZer0ne/FlaminggoZer0ne/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314mqirpc5qljdph4yufdm5zoxfy)
